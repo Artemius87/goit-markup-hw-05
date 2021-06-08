@@ -79,8 +79,6 @@ body {
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-color);
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-nav .current {
@@ -128,8 +126,6 @@ body {
   --color4: var(--accent-color);
   color: var(--accent-color);
 
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* footer */
@@ -180,9 +176,7 @@ footer {
 .mail-footer:hover,
 .mail-footer:focus {
   color: var(--accent-color);
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
+  
 
 .tel-footer {
   font-style: normal;
@@ -198,8 +192,7 @@ footer {
 .tel-footer:hover,
 .tel-footer:focus {
   color: var(--accent-color);
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  
 }
 /*--- ICONS---*/
 
